@@ -1,6 +1,6 @@
 # pytest development sprint 2024
 
-I'm happy to announce that in collaboration with [OMICRON](https://www.omicronenergy.com/en/), I ([@The-Compiler](https://github.com/the-compiler)) am organizing another pytest development sprint, taking place **June 17th to 21th**, with a social event on **June 22nd**.
+I'm happy to announce that in collaboration with [OMICRON](https://www.omicronenergy.com/en/), I ([@The-Compiler](https://github.com/the-compiler)) am organizing another pytest development sprint, taking place **June 17th to 21st**, with a social event on **June 22nd**.
 
 [Discussions](https://github.com/pytest-dev/sprint/discussions) in this repository will be used for organizing various aspects. Feel free to contribute!
 
