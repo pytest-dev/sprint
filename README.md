@@ -8,7 +8,7 @@ I'm happy to announce that in collaboration with [OMICRON](https://www.omicronen
 
 **Sign-up is now closed.**
 
-Please [reach out](https://github.com/the-compiler) if you missed the sign-up, we might have spots available on short notice. There is also the possibility of [remote participation)(https://github.com/pytest-dev/sprint/discussions/8), but the number of slots will be limited.
+Please [reach out](https://github.com/the-compiler) if you missed the sign-up, we might have spots available on short notice. There is also the possibility of [remote participation](https://github.com/pytest-dev/sprint/discussions/8), but the number of slots will be limited.
 
 We will allow 
 
