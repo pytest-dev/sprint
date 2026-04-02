@@ -1,32 +1,18 @@
-# pytest development sprint 2024
+# pytest development sprint 2026
 
-I'm happy to announce that in collaboration with [OMICRON](https://www.omicronenergy.com/en/), I ([@The-Compiler](https://github.com/the-compiler)) am organizing another pytest development sprint, taking place **June 17th to 21st**, with a social event on **June 22nd**.
+I'm happy to announce that in collaboration with [OMICRON](https://www.omicronenergy.com/en/), I ([@The-Compiler](https://github.com/the-compiler)) am organizing another pytest development sprint, taking place **July 20th to 24th** (the week after Europython).
 
 [Discussions](https://github.com/pytest-dev/sprint/discussions) in this repository will be used for organizing various aspects. Feel free to contribute!
 
 ## Sign-up
 
-**Sign-up is now closed.**
+**Sign-up is not opened yet.**
 
-Please [reach out](https://github.com/the-compiler) if you missed the sign-up, we might have spots available on short notice. There is also the possibility of [remote participation](https://github.com/pytest-dev/sprint/discussions/8), but the number of slots will be limited.
+Subscribe to this repository to get updated (via a discussion post) once sign-up opens!
 
-## Original announcement
+## Infos
 
-*(lightly edited to remove outdated information)*
-
----
-
-Back in 2016, we [had an amazing](https://blog.pytest.org/2016/pytest-development-sprint/) development sprint in Freiburg, Germany, with a [successful crowdfunding](https://www.indiegogo.com/projects/python-testing-sprint-mid-2016#/) and 27 participants from five continents meeting up for a week, to hack on pytest 3.0 and tox.
-
-That sprint is where things were implemented which you still likely see today: Renaming the `py.test` binary to `pytest`, the `--setup-only` and `--setup-plan` flags, `-o` to override options — and countless other features, bugfixes, and work on plugins.
-
-In 2024, I'd like to repeat this, with the goal of having a nice mixture of newcomers, plugin authors, people who have worked on pytest itself before, and of course core developers.
-
-From what things look like currently, @flub and @asottile would be in, and @Zac-HD as well as @RonnyPfannschmidt answered "maybe".
-
-Given some generous support by OMICRON (one big and two small meeting rooms, reserved for the whole week), and given our [OpenCollective balance of ~$50k USD](https://opencollective.com/pytest), we will be able to host a maximum of 35 people. The details will still need to be discussed, but the idea is that we (partially/fully) **pay for travel and accommodation for participants** from pytest funds, and OMICRON will **offer free lunch** for all participants.
-
-Before we flesh out all the details, I'd like to open up to a bigger audience: **If you might be interested in joining us**, please fill out this survey with your preferred date (link removed). Obviously nothing of this is binding for now. I'm just trying to figure out how many people we'd be likely need to budget for, before moving into the details.
+Given some generous support by [OMICRON](https://www.omicronenergy.com/en/) (two big meeting rooms, reserved for the whole week), and given our [OpenCollective balance of ~$84k USD](https://opencollective.com/pytest), we will be able to host a maximum of ~25 people. The details will still need to be discussed, but the idea is that we (partially/fully) **pay for travel and accommodation for participants** from pytest funds, and OMICRON will **offer free lunch** for all participants.
 
 # Venue
 
