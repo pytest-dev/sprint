@@ -6,9 +6,25 @@ I'm happy to announce that in collaboration with [OMICRON](https://www.omicronen
 
 ## Sign-up
 
-**Sign-up is not opened yet.**
+The sign-up for the [pytest development sprint 2026](https://github.com/pytest-dev/sprint) on July 20th to 24th is now open:
 
-Subscribe to this repository to get updated (via a discussion post) once sign-up opens!
+:memo:  **[Sign-up form](https://app.formbricks.com/s/l5n3deda3v7uyxwzwrf7yb4g)**
+
+Please sign up **by June 15th**. We aim to let you know if you're accepted one week after that.
+
+If you're a core dev or significant contributor, or if you agree to pay your costs yourself (consider asking your employer if you're using pytest at work!), chances for acceptance are very high, unless we run out of space.
+
+If you want your costs to be paid from pytest funds, we still encourage you to apply (also if you're a beginner!), but demonstrating prior contributions to pytest or related projects, or showing that you're willing to start with your first pytest contribution during the sprint, will help.
+
+The form will ask you:
+
+- Your name and pronouns
+- Your contact data (mail, GitHub, optionally Discord)
+- Where you're travelling from, how you plan to travel, when you plan to arrive and depart
+- Whether you need your travel/accommodation costs paid from the pytest OpenCollective funds, and some additional questions related to that
+- Whether you eat breakfast, and diet/allergies for lunch
+- Your involvement with pytest, what topics you're interested in, and your motivation for the sprint
+- Your T-Shirt size in case we get around to ordering shirts
 
 ## Infos
 
